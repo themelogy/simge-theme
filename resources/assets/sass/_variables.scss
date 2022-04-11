@@ -1,0 +1,9 @@
+$default-color: #f6921e;
+$default-reverse-color: darken(white, 70%);
+$font-family: 'Roboto Condensed', sans-serif;
+$default-txt-color: #797979;
+
+$top-bg-color: $default-reverse-color;
+$footer-bg-color: darken($default-reverse-color, 5%);
+$footer-top-bg-color: darken($default-reverse-color, 10%);
+$footer-copyright-bg-color: darken($default-reverse-color, 10%);
